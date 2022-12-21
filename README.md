@@ -8,7 +8,7 @@
 ### Built with
 
 - JSX
-- Tailwind css
+- CSS
 - React
 
 ## Author
